@@ -1,0 +1,7 @@
+.moonraker.uuid
+certs/*
+comms/*
+gcodes/*
+logs/*
+misc/*
+config/printer-*.cfg
